@@ -1,0 +1,23 @@
+Begin Object Class=/Script/Engine.Blueprint Name="ShooterGI"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_0"
+   End Object
+   Begin Object Class=/Script/Engine.EdGraph Name="EventGraph"
+   End Object
+   Begin Object Name="SceneThumbnailInfo_0"
+   End Object
+   Begin Object Name="EventGraph"
+      Schema=Class'"/Script/BlueprintGraph.EdGraphSchema_K2"'
+      bAllowDeletion=False
+      GraphGuid=EDDE9106464A6FAF675CF4BAD6B3FDF9
+   End Object
+   ParentClass=Class'"/Script/Engine.GameInstance"'
+   BlueprintSystemVersion=2
+   UbergraphPages(0)=EdGraph'"EventGraph"'
+   NewVariables(0)=(VarName="multiplayer",VarGuid=61F0F132449509950C636A955EE63D60,VarType=(PinCategory="int"),FriendlyName="Multiplayer",Category=NSLOCTEXT("KismetSchema", "Default", "Default"),PropertyFlags=65541,MetaDataArray=((DataKey="MultiLine",DataValue="true")))
+   CategorySorting(0)="Default"
+   LastEditedDocuments(0)=(EditedObjectPath=/Game/ShooterGI.ShooterGI:EventGraph,SavedViewOffset=(X=-515.370361,Y=-752.963013),SavedZoomAmount=0.375000)
+   ThumbnailInfo=SceneThumbnailInfo'"SceneThumbnailInfo_0"'
+   GeneratedClass=BlueprintGeneratedClass'"ShooterGI_C"'
+   bLegacyNeedToPurgeSkelRefs=False
+   BlueprintGuid=B974C9DF43FD82D88E52EE9DE77F2CBD
+End Object
